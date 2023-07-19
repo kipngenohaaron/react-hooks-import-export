@@ -1,3 +1,5 @@
+
+// This file exports a React component named MesaVerde as the default export.
 import React from "react";
 
 function MesaVerde() {
